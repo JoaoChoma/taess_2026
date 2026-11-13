@@ -1,0 +1,4371 @@
+[
+  {
+    "sessionId": "gen0-jpetstore-4",
+    "generation": 0,
+    "bestCandidates": {
+      "Cohesion": 0,
+      "ReusePerMS": 0,
+      "Functionality": 0,
+      "Overhead": 0,
+      "Coupling": 0
+    },
+    "candidates": [
+      {
+        "index": 0,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": true,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 1,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 2,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 3,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 4,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 5,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 6,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 7,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 8,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 9,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 10,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 11,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 12,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 13,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 14,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 15,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 16,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 17,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 18,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 19,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 20,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 21,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 22,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 23,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 24,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 25,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 26,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 27,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 28,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 29,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 30,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 31,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 32,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 33,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 34,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 35,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 36,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 37,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 38,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 39,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 40,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 41,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 42,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 43,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 44,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 45,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 46,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 47,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 48,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 49,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 50,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 51,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 52,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 53,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 54,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 55,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 56,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 57,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 58,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 59,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 60,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 61,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 62,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 63,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 64,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 65,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 66,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 67,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 68,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 69,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 70,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 71,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 72,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 73,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 74,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 75,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 76,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 77,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 78,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 79,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 80,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 81,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 82,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 83,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 84,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 85,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 86,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 87,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 88,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 89,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 90,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 91,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 92,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 93,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 94,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 95,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 96,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 97,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 98,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 99,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 100,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 101,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 102,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 103,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 104,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 105,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 106,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 107,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 108,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 109,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 110,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 111,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 112,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 113,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 114,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 115,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 116,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 117,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 118,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 119,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 120,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 121,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 122,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 123,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 124,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 125,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 126,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 127,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 128,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 129,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 130,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      },
+      {
+        "index": 131,
+        "microservices": 4,
+        "metrics": [
+          {
+            "index": 0,
+            "name": "Coupling",
+            "value": 331.0
+          },
+          {
+            "index": 1,
+            "name": "Cohesion",
+            "value": 6.035478547854786
+          },
+          {
+            "index": 2,
+            "name": "Overhead",
+            "value": 2152.0
+          },
+          {
+            "index": 3,
+            "name": "Functionality",
+            "value": 0.33190061511296004
+          },
+          {
+            "index": 4,
+            "name": "ReusePerMS",
+            "value": 1.0
+          }
+        ],
+        "bestTradeoff": false,
+        "hasDmInteraction": false
+      }
+    ]
+  }
+]
