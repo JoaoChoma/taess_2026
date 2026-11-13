@@ -1,0 +1,1 @@
+﻿Coloque aqui os ZIPs da config_3 (R-NSGA-III, elitismo ON, PENALTY).

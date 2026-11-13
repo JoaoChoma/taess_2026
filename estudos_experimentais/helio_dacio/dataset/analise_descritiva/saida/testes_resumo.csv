@@ -1,0 +1,7 @@
+sistema;indicador;shapiro_min_p;configs_nao_normais;levene_p;brown_forsythe_p;pressupostos_atendidos;teste_pelo_fluxo;teste_adotado;anova_F;anova_p;kruskal_H;kruskal_p;dunn_bh_pares_signif;tukey_bh_pares_signif
+spring-petclinic;hv;0,0803;-;0,0083;0,0689;False;Kruskal-Wallis + Dunn;Kruskal-Wallis + Dunn;21,2774;0,0000;30,5298;0,0001;13;
+spring-petclinic;igd_plus;0,0196;C2 C4;0,0718;0,4816;False;Kruskal-Wallis + Dunn;Kruskal-Wallis + Dunn;29,0095;0,0000;30,0732;0,0001;16;
+spring-petclinic;ed_media;0,2859;-;0,0672;0,2317;True;ANOVA + Tukey HSD;Kruskal-Wallis + Dunn;22,1455;0,0000;30,0059;0,0001;15;16,0000
+jpetstore;hv;0,0110;C6;0,0174;0,0848;False;Kruskal-Wallis + Dunn;Kruskal-Wallis + Dunn;3,7612;0,0044;17,8712;0,0126;2;
+jpetstore;igd_plus;0,0094;C6;0,1870;0,4158;False;Kruskal-Wallis + Dunn;Kruskal-Wallis + Dunn;1,9100;0,1006;11,2068;0,1298;0;
+jpetstore;ed_media;0,0158;C7;0,3715;0,6858;False;Kruskal-Wallis + Dunn;Kruskal-Wallis + Dunn;1,4777;0,2104;10,4283;0,1656;0;
